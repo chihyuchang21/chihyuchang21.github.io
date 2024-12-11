@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
+gem 'tzinfo-data', platforms: [:mingw, :x64_mingw, :mswin]
 gem 'github-pages'
