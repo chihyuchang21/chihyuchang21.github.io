@@ -7,58 +7,41 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information Science, University of Wisconsin - Madison, USA, 2025
+* B.S. in Foreign Languages, National Tsing Hua University, Taiwan, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan. 2024 - Jun. 2024: Backend Engineer
+  * Appworks School
+    * Completed intensive backend development training, demonstrating mastery in independently developing 
+full-stack websites
+    * Developed a website within 5 weeks: Stock Mingle, a comprehensive stock forum that combines social 
+networking and algorithm-based posts recommendation system.
+    * Co-worked with Front-end, iOS, Data engineers to build website features, including like-dislike, coupon 
+and real-time customer service using Scrum process, winning the Popularity Award after 4 days of 
+teamwork
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May. 2021 - Jun. 2023: Senior Associate
+  * CTBC Bank (中國信託銀行)
+    * Cooperated with HR information system engineers and proposed optimized data processing process.
+    * Succeeded and achieved results of issuing 90 million common shares in 2022, making CTBC to be 
+one of the pioneers which issues RSAs in Taiwan's financial industry
+
+* Feb. 2020 - Apr. 2021: Intern & Associate
+  * Powertech Technology Inc. (力成科技)
+    * Simplified the payroll input process of quarterly bonus with Excel VBA, reducing working hours by 60%. 
+    * Analyzed monthly bonus distribution and wrote report to provide insightful management support.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Java, Python, JavaScript
+* **Frameworks**: Springboot, Flask
+* **Developer Tools**: Docker, MySQL, Git, Linux, Nginx, Redis
+* **AWS Cloud Service**: EC2, S3, RDS, CloudWatch, CloudFront, ElastiCache
+* **Applications**: Web Programming
+* **Language**: Mandarin (native), English (proficient)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
